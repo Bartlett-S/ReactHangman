@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60a6f456.chunk.css",
+    "main.js": "/static/js/main.961d18db.chunk.js",
+    "main.js.map": "/static/js/main.961d18db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e30901fc.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e30901fc.js.map",
+    "static/js/2.6bd0c5e1.chunk.js": "/static/js/2.6bd0c5e1.chunk.js",
+    "static/js/2.6bd0c5e1.chunk.js.map": "/static/js/2.6bd0c5e1.chunk.js.map",
+    "static/js/3.1072b33a.chunk.js": "/static/js/3.1072b33a.chunk.js",
+    "static/js/3.1072b33a.chunk.js.map": "/static/js/3.1072b33a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.60a6f456.chunk.css.map": "/static/css/main.60a6f456.chunk.css.map",
+    "static/js/2.6bd0c5e1.chunk.js.LICENSE.txt": "/static/js/2.6bd0c5e1.chunk.js.LICENSE.txt",
+    "static/media/Turn2.42e01f74.png": "/static/media/Turn2.42e01f74.png",
+    "static/media/Turn3.25f562b6.png": "/static/media/Turn3.25f562b6.png",
+    "static/media/Turn4.76996fbf.png": "/static/media/Turn4.76996fbf.png",
+    "static/media/Turn5.95980565.png": "/static/media/Turn5.95980565.png",
+    "static/media/Turn6.3d1bc495.png": "/static/media/Turn6.3d1bc495.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e30901fc.js",
+    "static/js/2.6bd0c5e1.chunk.js",
+    "static/css/main.60a6f456.chunk.css",
+    "static/js/main.961d18db.chunk.js"
+  ]
+}
