@@ -1,7 +1,7 @@
 {
   "name": "hangman",
   "version": "0.1.0",
-  "homepage": "https://bartlett-s.github.io/ReactHangman/",
+  "homepage": "https://bartlett-s.github.io/ReactHangman",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
